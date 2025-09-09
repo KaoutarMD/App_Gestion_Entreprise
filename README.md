@@ -236,22 +236,8 @@ mvn clean package
 - `montantnet` : Montant net (calculé automatiquement)
 - `emp_id` : Référence vers l'employé
 
-## 📸 Interfaces
-
-### Interface Spring Boot
-- Page d'accueil avec navigation sécurisée
-- Formulaires de gestion des employés
-- Tableaux de bord des fiches de salaire
-
-### Interface Swing
-- Menu principal avec options de gestion
-- Tables interactives avec actions CRUD
-- Dialogs de saisie avec validation
-
-### Interface JEE
-- Pages JSP avec design Bootstrap
-- Navigation par servlets
-- Formulaires de gestion intégrés
+## 🎥 Démonstration
+[Voir la vidéo de démonstration]([https://youtu.be/tonLien](https://drive.google.com/file/d/1ml797taRThHjNyBbku_QeF3-3scowSLc/view?usp=sharing))
 
 
 
